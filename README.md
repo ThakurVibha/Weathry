@@ -8,4 +8,4 @@
 
 ✔ Application is capable to fetch weather state, humidity and temperature of any state and city across the globe
 
-https://www.linkedin.com/posts/vibha-thakur_androiddevelopment-apps-mobiledevelopers-activity-6766335000074862592-41hR
+- https://www.linkedin.com/posts/vibha-thakur_androiddevelopment-apps-mobiledevelopers-activity-6766335000074862592-41hR
