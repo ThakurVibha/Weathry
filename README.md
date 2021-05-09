@@ -9,7 +9,7 @@
 ✔ Application is capable to fetch weather state, humidity and temperature of any state and city across the globe.
 
 <p float="left">
-<img src="https://user-images.githubusercontent.com/72120614/117560842-32b73980-b046-11eb-8ed9-4ed9263e0638.png" width="1000" height="650" />
+<img src="https://user-images.githubusercontent.com/72120614/117560842-32b73980-b046-11eb-8ed9-4ed9263e0638.png" width="1000" height="550" />
 
 
 - Want to see application in action click on the link below:-
